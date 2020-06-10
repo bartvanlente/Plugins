@@ -26,8 +26,8 @@
 
 version = "0.0.1"
 
-project.extra["PluginName"] = "Ardy knights clicker"
-project.extra["PluginDescription"] = "Ardy knights clicker"
+project.extra["PluginName"] = "Auto blisterwood cutter"
+project.extra["PluginDescription"] = "Auto blisterwood cutter"
 
 dependencies {
     implementation(project(":ExtUtils"))
