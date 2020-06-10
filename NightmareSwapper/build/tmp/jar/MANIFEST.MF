@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Plugin-Version: 0.1.0
+Plugin-Id: nightmareofashihamaprayerswapper-plugin
+Plugin-Provider: bartvanlente
+Plugin-Dependencies: extutils-plugin
+Plugin-Description: Swaps the prayers and which tiles to avoid
+Plugin-License: GNU General Public License v3.0
+

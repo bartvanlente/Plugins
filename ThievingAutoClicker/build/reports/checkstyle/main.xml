@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.25">
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ThievingAutoClicker/src/main/java/net/runelite/client/plugins/externals/thievingautoclicker/ThievingAutoClick.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ThievingAutoClicker/src/main/java/net/runelite/client/plugins/externals/thievingautoclicker/ThievingAutoClickConfig.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ThievingAutoClicker/src/main/java/net/runelite/client/plugins/externals/thievingautoclicker/ThievingAutoClickOverlay.java">
+</file>
+</checkstyle>

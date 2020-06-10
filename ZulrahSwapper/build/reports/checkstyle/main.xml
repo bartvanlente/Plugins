@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.25">
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/ImagePanelComponent.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/TextComponent.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/ZulrahConfig.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/ZulrahInstance.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/ZulrahSwapper.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/overlays/ZulrahCurrentPhaseOverlay.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/overlays/ZulrahImageManager.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/overlays/ZulrahNextPhaseOverlay.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/overlays/ZulrahOverlay.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/overlays/ZulrahPrayerOverlay.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/patterns/ZulrahPattern.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/patterns/ZulrahPatternA.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/patterns/ZulrahPatternB.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/patterns/ZulrahPatternC.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/patterns/ZulrahPatternD.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/phase/StandLocation.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/phase/ZulrahLocation.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/phase/ZulrahPhase.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/ZulrahSwapper/src/main/java/net/runelite/client/plugins/externals/zulrahswapper/phase/ZulrahType.java">
+</file>
+</checkstyle>

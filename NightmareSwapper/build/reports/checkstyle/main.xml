@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.25">
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/NightmareSwapper/src/main/java/net/runelite/client/plugins/nightmareswapper/MemorizedTotem.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/NightmareSwapper/src/main/java/net/runelite/client/plugins/nightmareswapper/NightmareAttack.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/NightmareSwapper/src/main/java/net/runelite/client/plugins/nightmareswapper/NightmareOverlay.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/NightmareSwapper/src/main/java/net/runelite/client/plugins/nightmareswapper/NightmarePrayerOverlay.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/NightmareSwapper/src/main/java/net/runelite/client/plugins/nightmareswapper/NightmareSwapperConfig.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/NightmareSwapper/src/main/java/net/runelite/client/plugins/nightmareswapper/NightmareSwapperPlugin.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/NightmareSwapper/src/main/java/net/runelite/client/plugins/nightmareswapper/TotemPhase.java">
+</file>
+</checkstyle>
