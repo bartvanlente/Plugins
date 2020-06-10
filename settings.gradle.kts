@@ -5,6 +5,7 @@ include(":ExtUtils")
 include(":ZulrahSwapper")
 include(":NightmareSwapper")
 include(":ThievingAutoClicker")
+include(":AutoBlisterwoodCutter")
 
 
 for (project in rootProject.children) {
