@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
 Plugin-Version: 0.0.1
-Plugin-Id: ardyknightsclicker-plugin
+Plugin-Id: autoblisterwoodcutter-plugin
 Plugin-Provider: bartvanlente
 Plugin-Dependencies: extutils-plugin
-Plugin-Description: Ardy knights clicker
+Plugin-Description: Auto blisterwood cutter
 Plugin-License: GNU General Public License v3.0
 
