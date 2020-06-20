@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Plugin-Version: 0.2.3
 Plugin-Id: zulrahswapper-plugin
-Plugin-Provider: bartvanlente
+Plugin-Provider: Ganom
 Plugin-Dependencies: extutils-plugin
 Plugin-Description: Shows tiles on where to stand during the phases and 
  swith your gear and prayers

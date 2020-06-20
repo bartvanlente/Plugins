@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Plugin-Version: 0.0.1
 Plugin-Id: ardyknightsclicker-plugin
-Plugin-Provider: bartvanlente
+Plugin-Provider: Ganom
 Plugin-Dependencies: extutils-plugin
 Plugin-Description: Ardy knights clicker
 Plugin-License: GNU General Public License v3.0

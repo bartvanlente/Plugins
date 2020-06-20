@@ -31,6 +31,8 @@ project.extra["PluginDescription"] = "Auto blisterwood cutter"
 
 dependencies {
     implementation(project(":ExtUtils"))
+    annotationProcessor(group = "org.projectlombok", name = "lombok", version = "1.18.12")
+    annotationProcessor(group = "org.pf4j", name = "pf4j", version = "3.2.0")
 }
 
 tasks {

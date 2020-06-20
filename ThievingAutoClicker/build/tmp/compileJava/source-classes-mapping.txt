@@ -1,0 +1,7 @@
+net/runelite/client/plugins/externals/thievingautoclicker/ThievingAutoClick.java
+ net.runelite.client.plugins.externals.thievingautoclicker.ThievingAutoClick
+ net.runelite.client.plugins.externals.thievingautoclicker.ThievingAutoClick$1
+net/runelite/client/plugins/externals/thievingautoclicker/ThievingAutoClickOverlay.java
+ net.runelite.client.plugins.externals.thievingautoclicker.ThievingAutoClickOverlay
+net/runelite/client/plugins/externals/thievingautoclicker/ThievingAutoClickConfig.java
+ net.runelite.client.plugins.externals.thievingautoclicker.ThievingAutoClickConfig

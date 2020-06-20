@@ -1,0 +1,8 @@
+net/runelite/client/plugins/externals/utils/ExtUtils.java
+ net.runelite.client.plugins.externals.utils.ExtUtils
+net/runelite/client/plugins/externals/utils/Tab.java
+ net.runelite.client.plugins.externals.utils.Tab
+net/runelite/client/plugins/externals/utils/Spells.java
+ net.runelite.client.plugins.externals.utils.Spells
+net/runelite/client/plugins/externals/utils/PrayerMap.java
+ net.runelite.client.plugins.externals.utils.PrayerMap

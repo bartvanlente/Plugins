@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Plugin-Version: 0.0.1
 Plugin-Id: autoblisterwoodcutter-plugin
-Plugin-Provider: bartvanlente
+Plugin-Provider: Ganom
 Plugin-Dependencies: extutils-plugin
 Plugin-Description: Auto blisterwood cutter
 Plugin-License: GNU General Public License v3.0
