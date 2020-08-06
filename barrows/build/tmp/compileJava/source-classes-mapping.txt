@@ -1,0 +1,10 @@
+net/runelite/client/plugins/barrows/BarrowsConfig.java
+ net.runelite.client.plugins.barrows.BarrowsConfig
+net/runelite/client/plugins/barrows/BarrowsPlugin.java
+ net.runelite.client.plugins.barrows.BarrowsPlugin
+net/runelite/client/plugins/barrows/BarrowsBrothers.java
+ net.runelite.client.plugins.barrows.BarrowsBrothers
+net/runelite/client/plugins/barrows/BarrowsOverlay.java
+ net.runelite.client.plugins.barrows.BarrowsOverlay
+net/runelite/client/plugins/barrows/BarrowsBrotherSlainOverlay.java
+ net.runelite.client.plugins.barrows.BarrowsBrotherSlainOverlay

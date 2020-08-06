@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.25">
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/Barrows/src/main/java/net/runelite/client/plugins/barrows/BarrowsBrotherSlainOverlay.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/Barrows/src/main/java/net/runelite/client/plugins/barrows/BarrowsBrothers.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/Barrows/src/main/java/net/runelite/client/plugins/barrows/BarrowsConfig.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/Barrows/src/main/java/net/runelite/client/plugins/barrows/BarrowsOverlay.java">
+</file>
+<file name="/Volumes/WININSTALL/JavaProjects/ExternalPlugins/Barrows/src/main/java/net/runelite/client/plugins/barrows/BarrowsPlugin.java">
+</file>
+</checkstyle>

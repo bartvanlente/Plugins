@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Plugin-Version: 0.0.8
+Plugin-Id: barrowsbrothers-plugin
+Plugin-Provider: Ganom
+Plugin-Description: Show helpful information for the Barrows minigame
+Plugin-License: GNU General Public License v3.0
+

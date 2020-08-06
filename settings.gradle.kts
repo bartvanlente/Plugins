@@ -6,6 +6,7 @@ include(":ZulrahSwapper")
 include(":NightmareSwapper")
 include(":ThievingAutoClicker")
 include(":AutoBlisterwoodCutter")
+include(":Barrows")
 
 for (project in rootProject.children) {
     project.apply {
